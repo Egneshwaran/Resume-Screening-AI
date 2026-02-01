@@ -1,0 +1,25 @@
+John Doe
+Email: john.doe@email.com
+Phone: +1-234-567-890
+
+Summary:
+Full Stack Developer with 6 years of experience in Java development and cloud infrastructure.
+
+Skills:
+- Languages: Java, Python, JavaScript, SQL
+- Frameworks: Spring Boot, Spring Security, Hibernate, React
+- Tools: Docker, Jenkins, Git, Maven
+- Cloud: AWS (EC2, S3, RDS), Azure Basics
+
+Experience:
+Senior Software Engineer | TechCorp (2020 - Present)
+- Led the migration of monolithic applications to Microservices.
+- Developed REST APIs and integrated them with React frontend.
+- Optimized SQL queries resulting in 30% faster load times.
+
+Software Developer | DevSol (2018 - 2020)
+- Developed Java-based enterprise applications.
+- Managed database schemas and migrations.
+
+Education:
+B.Tech in Computer Science, IIT Delhi (2018)

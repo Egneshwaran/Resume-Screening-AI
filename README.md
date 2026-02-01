@@ -81,7 +81,7 @@ cd frontend
 npm install
 npm run dev
 ```
-*Client runs on http://localhost:3001 (proxies API requests to 8080)*
+*Client runs on http://localhost:3000 (proxies API requests to 8080)*
 
 ## API Documentation
 - **AI Engine**: `http://localhost:8000/docs` (Swagger UI)
@@ -89,5 +89,3 @@ npm run dev
 
 ---
 *Built for the Advanced Agentic Coding Project.*
-# Resume-Screening-AI
-AI-powered Resume Screening system that automates candidate evaluation for HR teams. The platform analyzes resumes using configurable AI rules, ranks candidates, provides analytics and insights, and supports exportable reports through a secure, modern dashboard.

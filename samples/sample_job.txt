@@ -1,0 +1,16 @@
+Job Title: Senior Java Developer
+Location: Remote / New York
+Experience Required: 5+ years
+
+Requirements:
+- Strong proficiency in Java 17 and Spring Boot.
+- Experience with Microservices architecture and RESTful APIs.
+- Deep understanding of MySQL and Hibernate.
+- Hands-on experience with Docker, Kubernetes, and AWS.
+- Knowledge of React.js is a plus.
+- Strong problem-solving skills and team collaboration.
+
+Responsibilities:
+- Design and develop scalable backend services.
+- Optimize database queries and system performance.
+- Collaborate with frontend teams for API integration.
