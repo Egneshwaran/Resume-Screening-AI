@@ -81,7 +81,7 @@ cd frontend
 npm install
 npm run dev
 ```
-*Client runs on http://localhost:3000 (proxies API requests to 8080)*
+*Client runs on http://localhost:3001 (proxies API requests to 8080)*
 
 ## API Documentation
 - **AI Engine**: `http://localhost:8000/docs` (Swagger UI)
