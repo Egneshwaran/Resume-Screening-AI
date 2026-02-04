@@ -1,6 +1,5 @@
-target/
-*.txt
+.git
+.gitignore
+.idea
+node_modules
 *.log
-.idea/
-mvnw*
-.git/
